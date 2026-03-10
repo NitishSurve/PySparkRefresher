@@ -1,5 +1,5 @@
 # PySparkRefresher
-Pyspark refresher using Databricks, focusing on data cleaning, null handling, salary transformation, aggregation, and exploratory analysis. Implemented transformations with withColumn, groupBy, and SQL queries to derive insights such as salary trends by gender, city, and job roles. The project focused on cleaning, transforming, and analyzing structured data using PySpark DataFrame APIs and Spark SQL.
+Pyspark refresher using Databricks, focusing on data cleaning, null handling, salary transformation, aggregation, and exploratory analysis. Implemented transformations with withColumn, groupBy, and SQL queries to derive insights such as salary trends by gender, city, and job roles. The project focused on cleaning, transforming, and analyzing structured data using PySpark DataFrame APIs and SparkSQL.
 
 Key tasks included:
 
